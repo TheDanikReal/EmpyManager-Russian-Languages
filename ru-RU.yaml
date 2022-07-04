@@ -1,12 +1,12 @@
-flag: 🇬🇧
+flag: 🇷🇺
 
 ### Most important messages
 
-tempchannel-panel-title: "%owner%'s Private Chat"
+tempchannel-panel-title: "Приватный чат %owner%"
 tempchannel-panel-body: |
-  Welcome %owner% to your private chat!
-  Only users connected to your channel will see this chat, and it will be deleted once everyone leaves.
-  Your channel is:
+  Добро пожаловать %owner% в ваш приватный чат!
+  Только пользователи которые будут подключены к каналу смогут видеть этот чат, и он будет удален, когда все выйдут.
+  Ваш канал это:
   - %private%
   - %hidden%
   
