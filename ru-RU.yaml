@@ -25,19 +25,19 @@ bot-added-body: |
   - [Как создавать временные каналы](https://docs.empymanager.com/getting-started/create-temporary-channels)
 setup-title: "✅ Мастер канал создан"
 setup-body: |
-  ✅ I've created a **master channel** with id `%id%` for you!
-  Your users can now join it to create their own temporary channels.
+  ✅ Я создал **мастер канал** с айди `%id%` для тебя!
+  Ваши пользователи теперь могут зайти в него чтобы создавать свои временные каналы.
   
-  Make sure to edit it as you like: you can change its name, permissions to join, user limit and bitrate. 
+  Обязательно отредактируйте его по своему усмотрению: вы можете изменить его имя, разрешения на присоединение, лимит участников и битрейт.
   
-  **All temporary channels created from this master channel will inherit its user limit and bitrate.**
+  **Все временные каналы созданные из этого мастер канала будут наследовать его лимит пользователей и битрейт.**
   
-  🌐 **Dashboard**
-  - See [this channel's settings](https://dashboard.empymanager.com/guilds/%guildId%/masters/%id%).
-  - See [server's settings](https://dashboard.empymanager.com/guilds/%guildId%).
+  🌐 **Приборная доска (сайт с настройками)**
+  - Посмотреть [настройки этого канала](https://dashboard.empymanager.com/guilds/%guildId%/masters/%id%).
+  - Посмотреть [настройки сервера](https://dashboard.empymanager.com/guilds/%guildId%).
   
-  ⌨️ **Commands**
-  - [All Commands](https://docs.empymanager.com/commands).
+  ⌨️ **Команды**
+  - [Все команды](https://docs.empymanager.com/commands).
   
 error-master-creation-body: |
   I've encountered an error while creating your master channel:
