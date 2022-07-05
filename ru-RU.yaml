@@ -10,20 +10,20 @@ tempchannel-panel-body: |
   - %private%
   - %hidden%
   
-  Use one of the **buttons** below to **edit your channel**.
-bot-added-title: Thanks for adding me!
+  Используй одну из **кнопок** ниже, чтобы **изменить ваш канал**.
+bot-added-title: Спасибо что добавил меня!
 bot-added-body: |
-  Hello, thanks for adding me to your server!
+  Здравствуйте, спасибо, что добавил меня на свой сервер!
   
-  Type `v/help` to see all of my commands.
+  Напиши `v/help` чтобы увидеть все команды.
   
-  All you have to do to get started is `%prefix%setup` to enter a guided setup.
-  These are some links that might be useful:
-  - [EmpyManager's Dashboard](https://dashboard.empymanager.com/)
-  - [Support Server](https://empymanager.com/support)
-  - [Docs with tutorials](https://docs.empymanager.com/)
-  - [How to create temporary channels](https://docs.empymanager.com/getting-started/create-temporary-channels)
-setup-title: "✅ Master Channel Created"
+  Всё что тебе осталось чтобы начать это написать  `%prefix%setup` чтобы выполнить пошаговую настройку.
+  Вот некоторые ссылки которые могут быть полезными:
+  - [Настройки EmpyManager'а](https://dashboard.empymanager.com/)
+  - [Сервер поддержки](https://empymanager.com/support)
+  - [Документация с обучениями](https://docs.empymanager.com/)
+  - [Как создавать временные каналы](https://docs.empymanager.com/getting-started/create-temporary-channels)
+setup-title: "✅ Мастер канал создан"
 setup-body: |
   ✅ I've created a **master channel** with id `%id%` for you!
   Your users can now join it to create their own temporary channels.
