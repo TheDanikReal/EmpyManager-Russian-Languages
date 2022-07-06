@@ -43,16 +43,16 @@ error-master-creation-body: |
   Я столкнулся с ошибкой когда пытался создать ваш мастер канал:
   ```%error%```
   
-  **Пожалуйста, убедитесь Empymanager имеет достаточно разрешений** (it requires admin permissions to create a master channel). 
+  **Пожалуйста, убедитесь Empymanager имеет достаточно разрешений** (это требует прав администратора чтобы создать мастер канал). 
   
-  **Join [this server](https://empymanager.com/support) to receive support.**
+  **Зайдите [на этот сервер](https://empymanager.com/support) чтобы получить поддержку.**
   
-help-title: EmpyManager Commands
+help-title: Команды EmpyManager
 help-body: |
-  🌟 `v/premium` - Support the bot and get more features
+  🌟 `v/premium` - Поддержите бота и получите больше функций
   
   -
-help-control-subtitle: 🛠️   Control your channel
+help-control-subtitle: 🛠️   Управляйте вашим каналом
 help-control-body: |
   -
   
@@ -62,18 +62,18 @@ help-control-body: |
   
   🏠 `/waitingroom`
   
-  🚩 `/claim` - Become the owner of the channel you are currently inside (current owner must be disconnected).
+  🚩 `/claim` - Станьте владельцем канала, внутри которого вы сейчас находитесь (текущий владелец должен быть отключён).
   
   👞 `/kick @user` / ⛔ `/ban @user`
   
-  🔗 `/invite @user` - Invite a user to your channel (he will get a direct message).
-  Other commands: `/rename`, `/limit`, `/bitrate`.
+  🔗 `/invite @user` - Пригласить пользователя в ваш канал (он получит прямое (личное) сообщение).
+  Другие команды: `/rename`, `/limit`, `/bitrate`.
   
-  **If you can't see slash commands, tell an admin to [update bot's permissions](https://discord.com/oauth2/authorize?client_id=719236419230367798&permissions=381715218393%20&scope=bot%20applications.commands&guild_id=%guildId%)**
-help-settings-subtitle: ⚙️   Admin settings
+  **Если ты не можешь видеть слеш команды, скажи админу чтобы он [обновил разрешения бота](https://discord.com/oauth2/authorize?client_id=719236419230367798&permissions=381715218393%20&scope=bot%20applications.commands&guild_id=%guildId%)**
+help-settings-subtitle: ⚙️   Админ настройки 
 help-settings-body: |
-  - Only admins can see this -
-  📒 `v/setup` - Create a new master channel and set it up through a guided setup.
+  - Только админы могут видеть это -
+  📒 `v/setup` - Создать новый мастер канал и настроить его с пошаговой настройкой.
   
   🖥 `v/dashboard` - Access the Dashboard.
   
