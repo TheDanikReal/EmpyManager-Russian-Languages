@@ -40,10 +40,10 @@ setup-body: |
   - [Все команды](https://docs.empymanager.com/commands).
   
 error-master-creation-body: |
-  I've encountered an error while creating your master channel:
+  Я столкнулся с ошибкой когда пытался создать ваш мастер канал:
   ```%error%```
   
-  **Please make sure EmpyManager has enough permissions** (it requires admin permissions to create a master channel). 
+  **Пожалуйста, убедитесь Empymanager имеет достаточно разрешений** (it requires admin permissions to create a master channel). 
   
   **Join [this server](https://empymanager.com/support) to receive support.**
   
