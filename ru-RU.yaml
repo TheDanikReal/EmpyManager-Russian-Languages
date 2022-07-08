@@ -75,44 +75,44 @@ help-settings-body: |
   - Только админы могут видеть это -
   📒 `v/setup` - Создать новый мастер канал и настроить его с пошаговой настройкой.
   
-  🖥 `v/dashboard` - Access the Dashboard.
+  🖥 `v/dashboard` - Получить доступ к панели инструментов.
   
-  📜 `v/masterlist` - List master channels.
+  📜 `v/masterlist` - Список всех мастер каналов.
   
-  ❌ `v/resetmasters` - Turn all the master channels into normal channels.
+  ❌ `v/resetmasters` - Превратить все мастер каналы в нормальные каналы.
   
-  ♻️ `v/refresh` - Refresh all the settings from the database in case it isn't working properly.
+  ♻️ `v/refresh` - Обновить все настройки из датабазы если они работают неправильно.
   
-  🔧 `v/settings` - Show all advanced settings
-invite-button-label: Invite to your server
-support-button-label: Get support and suggest features
-dashboard-button-label: Dashboard
-vote-button-label: Vote Bot
+  🔧 `v/settings` - Показать все продвинутые настройки.
+invite-button-label: Пригласить на ваш сервер
+support-button-label: Получить помощь и предложить возможности
+dashboard-button-label: Панель инструментов
+vote-button-label: Проголосовать за бота
 
-### Commands
+### Команды
 
-command-was-disabled-here: This command was disabled here.
+command-was-disabled-here: Эта команда здесь отключена.
 
  # Rename
-rename-command-success-title: Name Changed
-rename-command-success-body: Channel name changed to %name%.
-rename-interaction-title: "🏷 Rename your channel"
-rename-interaction-body: "Type a new channel name here to 🏷 **rename** your channel."
+rename-command-success-title: Имя Изменено
+rename-command-success-body: Название канала изменено на %name%.
+rename-interaction-title: "🏷 Переименовать ваш канал"
+rename-interaction-body: "Напишите новое имя чтобы 🏷 **переименовать** ваш канал."
 
  # Bitrate
-change-bitrate-interaction-title: "📣 Change bitrate"
-change-bitrate-interaction-body: "Choose a new 📣 bitrate value."
+change-bitrate-interaction-title: "📣 Изменить битрейт"
+change-bitrate-interaction-body: "Выберите новое 📣 значение битрейта."
 
  # Claim
-claim-command-success-body: Done!
-claim-command-success-body-author: "Channel claimed successfully by %author%."
-claim-channel-user-left-title: "🚩 Claim this channel"
-claim-channel-user-left-body: Creator has left the channel. Click below to 🚩 **claim** it.
-claim-button-label: Claim
+claim-command-success-body: Сделано!
+claim-command-success-body-author: "Канал был успешно взят %author%."
+claim-channel-user-left-title: "🚩 Взять этот канал"
+claim-channel-user-left-body: Создатель вышел из канала. Нажмите ниже чтобы 🚩 **взять** его.
+claim-button-label: Взять
 
  # Limit
-limit-command-success-title: "👥 User Limit Was Changed"
-limit-command-success-body: "👥 User limit set to `%limit%`"
+limit-command-success-title: "👥 Лимит пользователей был изменён"
+limit-command-success-body: "👥 Лимит пользователей был изменён на `%limit%`"
 limit-command-unexpected-limit: Unexpected limit value.
 change-limit-interaction-title: "👥 Change user limit"
 change-limit-interaction-body: |
